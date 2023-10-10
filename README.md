@@ -9,3 +9,5 @@
 | 40 meter | 9+20 db | 610 |
 | 80 meter | 9+20 db | 610 |
 | 160 meter | 9+20 db | 610 |
+
+You can change the resistor R1 with a potentiometer and find out at which value the strongest noise occurs.
